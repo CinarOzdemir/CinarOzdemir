@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çınar</h1>
-<h3 align="center">A C/Python Programmer from Türkiye</h3>
+<h3 align="center">A C/Python/Java Programmer from Türkiye</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f1e65202025bd206292c132f16ac2250e05fc8d6&rid=giphy.gif&ct=g">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unity Engine, Kotlin**
 
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **Python, C, Java**
 
 - 📫 How to reach me: **ozdmr.cnr07@gmail.com**
 
