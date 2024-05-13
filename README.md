@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f1e65202025bd206292c132f16ac2250e05fc8d6&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Lumpy Disease Detection on Cows using Python**
+- 🔭 I’m currently working on **a fully autonomous rocket**
 
 - 🌱 I’m currently learning **Unity Engine, Kotlin**
 
