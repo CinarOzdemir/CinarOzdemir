@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Çınar</h1>
 <h3 align="center">A passionate software developer and Tech enthusiast</h3>
 
-- 🏫 I’m a freshamn at [Bilkent University](https://w3.bilkent.edu.tr/bilkent)
+- 🏫 I’m a freshman at [Bilkent University](https://w3.bilkent.edu.tr/bilkent)
 
 - 📚 I’m currently learning **Machine Learning, Manim...**
 
